@@ -1,3 +1,4 @@
+<img align="center" src="banner (2).gif" width ="1000" height="300"/>
 <h1 align="center">Hi, I'm Abha Agarwal.</h1>
 <h3 align="center">📱 Android & Flutter Dev | Design Enthusiast ☕️ | Bringing Ideas to Life 🚀</h3>
 <h5 align="center">Embracing the thrill of growth, one step at a time.</h5>
@@ -6,7 +7,7 @@
 
 
 <h3 align="left">I'm 21 years old Mobile developer from India</h3>
-- 🚀 who is assionate about crafting delightful experiences on Android and bringing ideas to life through design.  <br>
+- 🚀 who is passionate about crafting delightful experiences on Android and bringing ideas to life through design.  <br>
 - 🌟 Fueling my curiosity, diving into new technologies and trends ⚡️  <br>
 - 🎨 When I'm not immersed in code, you'll find me unleashing my creative side, infusing aesthetics into everything I do.
 
