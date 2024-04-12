@@ -6,7 +6,7 @@
 <br>
 
 
-<h3 align="left">I'm 20 years old Mobile developer from India</h3>
+<h3 align="left">I'm 21 years old Mobile developer from India</h3>
 - 🚀 Who is passionate about crafting delightful experiences on Android and bringing ideas to life through design.  <br>
 - 🌟 Fueling my curiosity, diving into new technologies and trends ⚡️  <br>
 - 🎨 When I'm not immersed in code, you'll find me unleashing my creative side, infusing aesthetics into everything I do.
